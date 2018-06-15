@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  background-image: url(../images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 30%;
+}
+button{
+  color: white;
+  background-color: #383846;
+  width: 100px;
+}
+p{
+  color: #383846;
+}
+ul li{
+  list-style: none;
+}
